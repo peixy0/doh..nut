@@ -1,1 +1,1 @@
-A more simplified chrome newtab page design, displaying time and a spinning donut (Mmm... donut).
+New tab page with a donut
