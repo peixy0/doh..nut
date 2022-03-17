@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Doh..nut",
   "description": "New tab page with a donut... and more",
   "version": "0.1",
@@ -13,8 +13,7 @@
     "js": ["dotgit-check.js"],
     "matches": ["*://*/*"]
   }],
-  "options_ui": {
-    "page": "options.html",
-    "open_in_tab": false
+  "action": {
+    "default_popup": "popup.html"
   }
 }
